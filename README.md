@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # home_page
+=======
+# flutter_application_1
+>>>>>>> main
 
 A new Flutter project.
 
